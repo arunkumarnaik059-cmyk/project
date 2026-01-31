@@ -2,6 +2,8 @@ LLM
 
 https://chatgpt.com/share/697cbcf6-56b0-8012-8bb7-24d700ac8719
 
+used POSTMAN 
+
 I implemented a backend search and ranking service for an e-commerce platform focused on electronic products, mainly iPhones.
 The goal of the project was to design a product search engine that can return relevant and ranked results based on different types of user queries.
 
@@ -22,5 +24,6 @@ Applies intent-aware ranking by considering price, rating, stock, and metadata
 Differentiates between phones and accessories such as covers and chargers
 
 Products are ranked using a custom scoring algorithm, ensuring that results align with real user intent (for example, cheaper products are ranked higher for budget queries).
+
 
 The APIs are designed to be simple, modular, and extensible, and the project demonstrates practical backend engineering skills, search logic design, and real-world problem solving.
